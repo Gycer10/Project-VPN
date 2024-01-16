@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T06:37:50.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q9SYB3I6BsHb9yvTKgbs" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T07:18:15.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hKqmd0Qmjbn27Xr4ceLb" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="AXfSFUIi0QAiJro6N-YA">
-    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D8VZ4h8kQoqLfRE4fQYs-2" value="VPN-сервис" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="300" width="326" height="240" as="geometry" />
+        <mxCell id="D8VZ4h8kQoqLfRE4fQYs-2" value="VPN-сервис" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="300" width="326" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="0V3LtO4UGTtPzNPLBNjk-1" value="Пользователь" style="rounded=0;whiteSpace=wrap;html=1;" parent="D8VZ4h8kQoqLfRE4fQYs-2" vertex="1">
+        <mxCell id="0V3LtO4UGTtPzNPLBNjk-1" value="Блок&lt;br&gt;Интерфйеса" style="rounded=0;whiteSpace=wrap;html=1;" parent="D8VZ4h8kQoqLfRE4fQYs-2" vertex="1">
           <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0V3LtO4UGTtPzNPLBNjk-2" value="VPN" style="rounded=0;whiteSpace=wrap;html=1;" parent="D8VZ4h8kQoqLfRE4fQYs-2" vertex="1">
+        <mxCell id="0V3LtO4UGTtPzNPLBNjk-2" value="Блок&lt;br&gt;Шифрования" style="rounded=0;whiteSpace=wrap;html=1;" parent="D8VZ4h8kQoqLfRE4fQYs-2" vertex="1">
           <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0V3LtO4UGTtPzNPLBNjk-3" value="Интернет" style="rounded=0;whiteSpace=wrap;html=1;" parent="D8VZ4h8kQoqLfRE4fQYs-2" vertex="1">
-          <mxGeometry x="103" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="0V3LtO4UGTtPzNPLBNjk-3" value="Блок&lt;br&gt;Переадресации" style="rounded=0;whiteSpace=wrap;html=1;" parent="D8VZ4h8kQoqLfRE4fQYs-2" vertex="1">
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ao40ddqlz0JtiE755K5_-1" value="Блок&lt;br&gt;Передачи информации" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="D8VZ4h8kQoqLfRE4fQYs-2">
+          <mxGeometry x="180" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
