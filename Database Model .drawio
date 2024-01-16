@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T08:03:40.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n5J5zpxEK3IIRmMAHPus" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T08:05:01.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="K9gyHLtpy0KLZU47k2i4" version="22.1.18" type="github">
   <diagram name="Страница — 1" id="eeZo-3c4ArLxRackNdco">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="unSaWZE6jowJ_VkOKAia-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="70" width="200" height="200" as="geometry" />
+        <mxCell id="unSaWZE6jowJ_VkOKAia-1" value="Personal_info" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="30" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="unSaWZE6jowJ_VkOKAia-10" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="unSaWZE6jowJ_VkOKAia-1">
           <mxGeometry x="10" y="20" width="150" height="30" as="geometry">
@@ -37,8 +37,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unSaWZE6jowJ_VkOKAia-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="70" width="200" height="160" as="geometry" />
+        <mxCell id="unSaWZE6jowJ_VkOKAia-2" value="Servers" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="unSaWZE6jowJ_VkOKAia-16" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="unSaWZE6jowJ_VkOKAia-2">
           <mxGeometry x="10" y="35" width="150" height="30" as="geometry">
@@ -60,8 +60,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unSaWZE6jowJ_VkOKAia-3" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="320" width="200" height="200" as="geometry" />
+        <mxCell id="unSaWZE6jowJ_VkOKAia-3" value="Workers" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="unSaWZE6jowJ_VkOKAia-5" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="unSaWZE6jowJ_VkOKAia-3">
           <mxGeometry x="15" y="40" width="150" height="30" as="geometry">
@@ -88,8 +88,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="unSaWZE6jowJ_VkOKAia-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="320" width="200" height="130" as="geometry" />
+        <mxCell id="unSaWZE6jowJ_VkOKAia-4" value="Department" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="unSaWZE6jowJ_VkOKAia-20" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="unSaWZE6jowJ_VkOKAia-4">
           <mxGeometry x="10" y="30" width="150" height="30" as="geometry">
