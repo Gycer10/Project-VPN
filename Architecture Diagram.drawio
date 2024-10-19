@@ -1,38 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T07:22:28.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vRoXXeEh1p8BfsROmTQL" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Страница — 1" id="euWZF1uq0GRX-nTF4nlA">
-    <mxGraphModel dx="2049" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I00LUDS0XPE0E5BRiCso-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="I00LUDS0XPE0E5BRiCso-1" target="I00LUDS0XPE0E5BRiCso-3">
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-1" target="BVZZPl_MaEJCcAPppxZm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="I00LUDS0XPE0E5BRiCso-1" target="I00LUDS0XPE0E5BRiCso-3">
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-1" target="BVZZPl_MaEJCcAPppxZm-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-1" value="Пользователь" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I00LUDS0XPE0E5BRiCso-3" target="I00LUDS0XPE0E5BRiCso-4">
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-1" target="BVZZPl_MaEJCcAPppxZm-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-3" value="VPN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-1" value="Методы защиты информации от утечки по техническим каналам" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="150" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="I00LUDS0XPE0E5BRiCso-4" target="I00LUDS0XPE0E5BRiCso-5">
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-2" target="BVZZPl_MaEJCcAPppxZm-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="I00LUDS0XPE0E5BRiCso-4" target="I00LUDS0XPE0E5BRiCso-3">
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-2" target="BVZZPl_MaEJCcAPppxZm-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-4" value="Шифрование/дешифрование" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="220" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="I00LUDS0XPE0E5BRiCso-5" target="I00LUDS0XPE0E5BRiCso-4">
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-2" target="BVZZPl_MaEJCcAPppxZm-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I00LUDS0XPE0E5BRiCso-5" value="Интернет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-2" target="BVZZPl_MaEJCcAPppxZm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-2" value="Инженерно-технические меры" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-3" target="BVZZPl_MaEJCcAPppxZm-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-3" target="BVZZPl_MaEJCcAPppxZm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-3" target="BVZZPl_MaEJCcAPppxZm-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-3" value="Маскировка информации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="250" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-4" target="BVZZPl_MaEJCcAPppxZm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BVZZPl_MaEJCcAPppxZm-4" target="BVZZPl_MaEJCcAPppxZm-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-4" value="Дезинформация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-5" value="Преграды и барьеры" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-6" value="Звукоизоляция" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-7" value="Камеры" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-8" value="Сигнализация" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-9" value="Шифрование данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-10" value="Экранирующие средства" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-11" value="Генераторы помех" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-12" value="Ложные документы и данные" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BVZZPl_MaEJCcAPppxZm-14" value="Ложные серверы и сети" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="350" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
